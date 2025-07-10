@@ -9,7 +9,6 @@
     <artifactId>MazeBank</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>MazeBank</name>
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.10.2</junit.version>
