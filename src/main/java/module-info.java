@@ -5,6 +5,7 @@ module com.jmc.mazebank {
     requires de.jensd.fx.glyphs.fontawesome;
     requires java.sql;
     requires org.xerial.sqlitejdbc;
+    requires java.desktop;
 
     opens com.jmc.mazebank to javafx.fxml;
     exports com.jmc.mazebank;
