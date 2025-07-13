@@ -1,7 +1,7 @@
 package com.jmc.mazebank.Controllers.Admin;
 
 import com.jmc.mazebank.Models.Model;
-//import com.jmc.mazebank.Views.AdminMenuOptions;
+import com.jmc.mazebank.Views.AdminMenuOptions;
 import javafx.fxml.Initializable;
 import javafx.scene.control.Button;
 import javafx.stage.Stage;
@@ -21,23 +21,23 @@ public class AdminMenuController implements Initializable {
     }
 
     private void addListeners(){
-//        create_client_btn.setOnAction(event -> onCreateClient());
-//        clients_btn.setOnAction(event -> onClients());
-//        deposit_btn.setOnAction(event -> onDeposit());
+        create_client_btn.setOnAction(event -> onCreateClient());
+        clients_btn.setOnAction(event -> onClients());
+        deposit_btn.setOnAction(event -> onDeposit());
         logout_btn.setOnAction(event -> onLogout());
     }
 
-//    private void onCreateClient() {
-//        Model.getInstance().getViewFactory().getAdminSelectedMenuItem().set(AdminMenuOptions.CREATE_CLIENT);
-//    }
-//
-//    private void onClients() {
-//        Model.getInstance().getViewFactory().getAdminSelectedMenuItem().set(AdminMenuOptions.CLIENTS);
-//    }
-//
-//    private void onDeposit() {
-//        Model.getInstance().getViewFactory().getAdminSelectedMenuItem().set(AdminMenuOptions.DEPOSIT);
-//    }
+    private void onCreateClient() {
+        Model.getInstance().getViewFactory().getAdminSelectedMenuItem().set(AdminMenuOptions.CREATE_CLIENT);
+    }
+
+    private void onClients() {
+        Model.getInstance().getViewFactory().getAdminSelectedMenuItem().set(AdminMenuOptions.CLIENTS);
+    }
+
+    private void onDeposit() {
+        Model.getInstance().getViewFactory().getAdminSelectedMenuItem().set(AdminMenuOptions.DEPOSIT);
+    }
 
     private void onLogout() {
         // Get Stage
@@ -47,6 +47,6 @@ public class AdminMenuController implements Initializable {
         // Show Login Window
         Model.getInstance().getViewFactory().showLoginWindow();
         // Set Admin Login Success Flag To False
-//        Model.getInstance().setAdminLoginSuccessFlag(false);
+        Model.getInstance().setAdminLoginSuccessFlag(false);
     }
 }
