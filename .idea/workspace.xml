@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87288d0b-a4f2-460f-9320-1e7c54a69ce0" name="Changes" comment="Final Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="368054fb97b7c5b941b9608aabc7d76b721cb39d" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KonstantinosGaroufalias/MazeBank.git&quot;,
+    &quot;accountId&quot;: &quot;413413c4-fa46-4936-8689-72d84c69cd02&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2zaiZ82iveWipaFbWeNU3QLF3IR" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/maste/IdeaProjects/MazeBank",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "database.query.execution",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maste\IdeaProjects\MazeBank" />
+      <recent name="C:\Users\maste\IdeaProjects\MazeBank\src\main\java\com\jmc\mazebank\Controllers\Client" />
+      <recent name="C:\Users\maste\IdeaProjects\MazeBank\src\main\java\com\jmc\mazebank\Views" />
+      <recent name="C:\Users\maste\IdeaProjects\MazeBank\src\main\java\com\jmc\mazebank\Controllers\Admin" />
+      <recent name="C:\Users\maste\IdeaProjects\MazeBank\src\main\resources\Images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maste\IdeaProjects\MazeBank" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jmc.mazebank" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="--enable-native-access=javafx.graphics" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.jmc.mazebank.App" />
+      <module name="MazeBank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87288d0b-a4f2-460f-9320-1e7c54a69ce0" name="Changes" comment="" />
+      <created>1751975638007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751975638007</updated>
+      <workItem from="1751975639420" duration="8405000" />
+      <workItem from="1752095736523" duration="3334000" />
+      <workItem from="1752154150089" duration="4755000" />
+      <workItem from="1752173952398" duration="3275000" />
+      <workItem from="1752177242462" duration="1188000" />
+      <workItem from="1752323560389" duration="1034000" />
+      <workItem from="1752426594499" duration="3471000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit for VC">
+      <option name="closed" value="true" />
+      <created>1751976605461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751976605461</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit for VC">
+      <option name="closed" value="true" />
+      <created>1751976951385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751976951385</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Login UI,Project Structure">
+      <option name="closed" value="true" />
+      <created>1751984367286</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751984367286</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Client Menu Design, ClientmenuController and css">
+      <option name="closed" value="true" />
+      <created>1752099323417</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752099323417</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creating Stages and the ViewFactory">
+      <option name="closed" value="true" />
+      <created>1752159868546</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752159868546</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Center View">
+      <option name="closed" value="true" />
+      <created>1752178422368</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752178422368</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Accounts View">
+      <option name="closed" value="true" />
+      <created>1752324567561</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752324567561</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Client Menu">
+      <option name="closed" value="true" />
+      <created>1752427226611</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752427226611</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final Commit">
+      <option name="closed" value="true" />
+      <created>1752429966326</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1752429966326</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit for VC" />
+    <MESSAGE value="Login UI,Project Structure" />
+    <MESSAGE value="Client Menu Design, ClientmenuController and css" />
+    <MESSAGE value="Creating Stages and the ViewFactory" />
+    <MESSAGE value="Center View" />
+    <MESSAGE value="Accounts View" />
+    <MESSAGE value="Client Menu" />
+    <MESSAGE value="Final Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Commit" />
+  </component>
+</project>
